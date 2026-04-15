@@ -24,3 +24,5 @@ ARCHIVED_Churn_Prediction_and_Customer_Analytics - A separate model that was det
 Churn_Model_Comparison_and_Evaluation - This notebook compares multiple classification models and selects the best-performing approach based on robust evaluation metrics. Including for record keeping, but not recommended to run as part of the project.
 
 3. Customer_Segmentation_RFM_Analysis - Customer segmentation using RFM analysis to identify high-value and at-risk customers for targeted business strategies. Run everything in order as pipeline dependencies exist. If errors occur: Check data paths & ensure all libraries are installed. For best results do not modify preprocessing without understanding impact.
+
+Model_Report_-_Ecommerce_Customer_Analytics.docx.pdf - pdf report of model performance, findings, and limitations 
