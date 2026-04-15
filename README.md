@@ -1,6 +1,6 @@
 # Analytics-in-Practice-Group-9
 
-Roles of each group member:
+**Roles of each group member:**
 Rathesh - Data Engineer
 Chaitanya - Data Engineer
 Ayce - Modeler/Analyst
