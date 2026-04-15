@@ -25,4 +25,6 @@ Churn_Model_Comparison_and_Evaluation - This notebook compares multiple classifi
 
 3. Customer_Segmentation_RFM_Analysis - Customer segmentation using RFM analysis to identify high-value and at-risk customers for targeted business strategies. Run everything in order as pipeline dependencies exist. If errors occur: Check data paths & ensure all libraries are installed. For best results do not modify preprocessing without understanding impact.
 
-Model_Report_-_Ecommerce_Customer_Analytics.docx.pdf - pdf report of model performance, findings, and limitations 
+**Model_Report_-_Ecommerce_Customer_Analytics.docx.pdf - pdf report of model performance, findings, and limitations 
+
+**Additional visualizations can be found in the following Tableau dashboard https://public.tableau.com/app/profile/avirall8075/viz/AIP2_1/E-CommerceChurnOverview
