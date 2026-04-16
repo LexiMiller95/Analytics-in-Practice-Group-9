@@ -2,24 +2,25 @@
 
 **Roles of each group member:**
 
-Rathesh - Data Engineer
+  Rathesh - Data Engineer
 
-Chaitanya - Data Engineer
+  Chaitanya - Data Engineer
 
-Ayce - Modeler/Analyst
+  Ayce - Modeler/Analyst
 
-Anh - Modeler/Analyst
+  Anh - Modeler/Analyst
 
-Ahmad - LLM/Prompt Specialist
+  Ahmad - LLM/Prompt Specialist
 
-Avirall - Visualization Expert
+  Avirall - Visualization Expert
 
-Iliana - Visualization Expert
+  Iliana - Visualization Expert
 
-Nisa - Project Manager/Storyteller
+  Nisa - Project Manager/Storyteller
 
-Lexi - Project Manager/Storyteller
+  Lexi - Project Manager/Storyteller
 
+---
 
 ## how-to-run:
 
@@ -37,6 +38,7 @@ ARCHIVED_Churn_Prediction_and_Customer_Analytics - A separate model that was det
 
 **Additional visualizations can be found in the following Tableau dashboard https://public.tableau.com/app/profile/avirall8075/viz/AIP2_1/E-CommerceChurnOverview
 
+---
 
 ## AI Usage Summary
 
